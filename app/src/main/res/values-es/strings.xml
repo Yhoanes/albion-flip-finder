@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Albion Flip Finder</string>
+
+    <string name="service_started">Servicio iniciado para %s</string>
+    <string name="service_stopped">Servicio detenido</string>
+
+    <string name="nav_feed">Oportunidades</string>
+    <string name="nav_watchlist">Lista de Seguimiento</string>
+    <string name="nav_settings">Ajustes</string>
+
+    <string name="login_subtitle">Inicia sesión para acceder a tu buscador.</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_sign_in_google">INICIAR SESIÓN CON GOOGLE</string>
+    <string name="button_discord_support">SOPORTE POR DISCORD</string>
+    <string name="link_start_trial">Iniciar Prueba de 1 Día</string>
+    <string name="link_forgot_password">¿Olvidaste tu contraseña?</string>
+
+    <string name="settings_title_service">Servicio</string>
+    <string name="server_action_stop">Detener Servicio</string>
+    <string name="settings_title_language">Idioma</string>
+    <string name="settings_title_notifications">Notificaciones</string>
+    <string name="settings_title_account_game">Cuenta y Juego</string>
+    <string name="settings_title_contact">Contacto</string>
+    <string name="settings_title_session">Sesión</string>
+
+    <string name="lang_english">Inglés</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_portuguese">Portugués</string>
+
+    <string name="server_europe">Europa</string>
+    <string name="server_america">América</string>
+    <string name="server_asia">Asia</string>
+
+    <string name="server_label">🌐 Servidor:</string>
+    <string name="select_language_label">Seleccionar Idioma:</string>
+    <string name="hint_min_profit">Ganancia Mín. para Notificación</string>
+    <string name="switch_enable_alerts">Habilitar Alertas</string>
+    <string name="checkbox_premium">Premium</string>
+    <string name="button_logout">Cerrar Sesión</string>
+
+    <string name="filter_option_all">Todos</string>
+    <string name="quality_normal">Normal</string>
+    <string name="quality_good">Bueno</string>
+    <string name="quality_outstanding">Notable</string>
+    <string name="quality_excellent">Sobresaliente</string>
+    <string name="quality_masterpiece">Obra Maestra</string>
+
+    <string name="filter_city">Ciudad:</string>
+    <string name="filter_quality">Calidad:</string>
+    <string name="filter_tier">Nivel:</string>
+    <string name="content_desc_clear_filters">Limpiar Filtros</string>
+    <string name="hint_min_profit_list">Ganancia Mín. (Lista)</string>
+    <string name="label_sort_by">Ordenar por:</string>
+    <string name="content_desc_sort_direction">Cambiar dirección de orden</string>
+    <string name="content_desc_clear_feed">Limpiar Lista de Feed</string>
+    <string name="sort_profit">Ganancia</string>
+    <string name="sort_buy_price">Precio de Compra</string>
+    <string name="sort_sell_price">Precio de Venta</string>
+    <string name="sort_profit_percentage">Ganancia %</string>
+    <string name="sort_time">Tiempo</string>
+
+    <string name="label_total_investment">Inversión Total</string>
+    <string name="label_total_profit">Ganancia Potencial Total</string>
+    <string name="content_desc_clear_watchlist_filters">Limpiar Filtros de Seguimiento</string>
+    <string name="content_desc_clear_watchlist">Limpiar Lista de Seguimiento</string>
+
+    <string name="flip_buy_in">Comprar en</string>
+    <string name="flip_profit">Ganancia</string>
+    <string name="flip_buy_price">Precio de Compra</string>
+    <string name="flip_sell_price">Precio de Venta</string>
+
+    <string name="msg_discarded">%s descartado</string>
+    <string name="msg_added_watchlist">%s añadido a la Lista de Seguimiento</string>
+    <string name="msg_removed_watchlist">%s eliminado de la Lista de Seguimiento</string>
+    <string name="msg_filters_cleared">Filtros limpiados</string>
+    <string name="msg_feed_cleared">Lista de Feed limpiada</string>
+    <string name="msg_watchlist_cleared">Lista de Seguimiento limpiada</string>
+    <string name="action_undo">DESHACER</string>
+
+    <string name="flip_channel_name">Oportunidades de inversión</string>
+    <string name="flip_channel_description">Notificaciones sobre nuevas oportunidades de inversión</string>
+    <string name="foreground_channel_name">Servicio activo</string>
+    <string name="notification_service_status">Buscando oportunidades de inversión...</string>
+
+    <string name="notification_flip_title">¡Nueva oportunidad de inversión!</string>
+    <string name="notification_flip_summary">%1$s (%2$s) - Ganancia: %3$s Plata</string>
+
+    <string name="notification_flip_expanded">
+        %1$s (%2$s)\n\nComprar en %3$s para: %4$s\nVender en el mercado negro por: %5$s\n\nGanacia: %6$s Silver
+    </string>
+
+    <string name="city_thetford">Thetford</string>
+    <string name="city_lymhurst">Lymhurst</string>
+    <string name="city_bridgewatch">Bridgewatch</string>
+    <string name="city_caerleon">Caerleon</string>
+    <string name="city_martlock">Marlock</string>
+    <string name="city_fort_sterling">Fort Sterling</string>
+    <string name="city_brecilien">Brecilien</string>
+
+    <string name="auth_failed">Falló la autenticación.</string>
+    <string name="error_signin_api">Error al iniciar sesión en Google: Error %d.</string>
+    <string name="error_signin_null_account">Error al iniciar sesión en Google: La cuenta es nula.</string>
+    <string name="error_unexpected">Error inesperado.</string>
+
+    <string name="msg_premium_expired">Tu licencia Premium ha caducado. Por favor, renuévala.</string>
+    <string name="msg_trial_expired">Su licencia de prueba ha caducado. Por favor, actualice su cuenta.</string>
+    <string name="msg_transfer_granted">Licencia transferida y acceso concedido.</string>
+    <string name="msg_trial_activated">¡Bienvenido! Tu prueba gratuita de 7 días ha sido activada.</string>
+
+    <string name="security_error_auth_device">Error de seguridad: Intente iniciar sesión con el dispositivo autorizado.</string>
+    <string name="security_block_transfer_required">Bloqueo de seguridad: Se ha detectado un nuevo dispositivo. Póngase en contacto con el soporte técnico para autorizar la transferencia. Se ha registrado un nuevo ID de dispositivo.</string>
+    <string name="security_error_trial_transfer">Error de seguridad: Las licencias de prueba no se pueden transferir.</string>
+    <string name="security_error_trial_used">Error de seguridad: Este dispositivo ya ha utilizado su período de prueba gratuito. Contáctenos.</string>
+    <string name="error_critical_license">Error crítico al verificar licencia. %s</string>
+    <string name="error_critical_create_license">Error crítico al crear licencia.</string>
+
+    <string name="status_premium">Acceso premium. Caduca el: %s.</string>
+    <string name="status_trial">Prueba activo. Duración restante: %d días.</string>
+    <string name="status_expired">Licencia caducada o estado desconocido.</string>
+
+    <string name="login_introduction_phrase">Encuentra oportunidades de ganancias en Albion Online</string>
+    <string name="welcome_action_title">Bienvenido, inicia sesión!</string>
+    <string name="soporte_discreto">Soporte y Comunidad</string>
+    <string name="soporte_discord">Enlace a soporte y comunidad en Discord</string>
+
+</resources>

@@ -1,0 +1,33 @@
+# Android & Gradle Build Artifacts
+*.iml
+.gradle/
+/local.properties
+local.properties
+/build/
+build/
+app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+.kotlin/
+
+# Signing Keys, Keystores & Release Bundles (NEVER COMMIT)
+*.jks
+*.keystore
+*keystore*
+*.apk
+*.aab
+*.ap_
+*.aab_
+release/
+app/release/
+
+# Firebase & Google Services Credentials (use app/google-services.json.example)
+app/google-services.json
+google-services.json
+
+# IDE & OS
+/.idea/
+.idea/
+.DS_Store
+Thumbs.db
